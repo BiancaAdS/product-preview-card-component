@@ -19,11 +19,12 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ![Captura de tela - Desktop](./assets/images/captura-tela-desktop.png)
 
 **For Mobile** :iphone: 
+
 ![Captura de tela - Mobile](./assets/images/captura-tela-mobile.png)
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://github.com/BiancaAdS/product-preview-card-component)
 - Live Site URL: [Live site URL](https://your-live-site-url.com)
 
 ## My process
