@@ -25,7 +25,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/BiancaAdS/product-preview-card-component)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://product-preview-card-component-gamma.vercel.app/)
 
 ## My process
 
